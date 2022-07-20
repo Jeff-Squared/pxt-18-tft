@@ -1,12 +1,8 @@
-Primarily configured for the Wavershare 1.8 inch TFT module for Microbit the code in this extension is usable with other S7735S 1.8 TFT displays
+Primarily configured for the Wavershare 1.8 inch TFT module for Microbit the code in this extension is usable with other S7735S 1.8 TFT displays. 
+The functions/methods are yet to be finalized and documented but the extension operates ok as is for now.
 
 
 ![PinOut](https://user-images.githubusercontent.com/109444537/179872683-45711eca-ee2a-43a0-88fa-b1a0edc7cab0.png)
-
-
-
-
-
 
 
 > Open this page at [https://jeff-squared.github.io/pxt-18-tft/](https://jeff-squared.github.io/pxt-18-tft/)
