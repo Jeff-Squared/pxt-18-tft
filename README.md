@@ -1,3 +1,6 @@
+Primarily configured for the Wavershare 1.8 inch TFT module for Microbit the code in this extension is usable with other S7735S 1.8 TFT displays
+
+
 ![PinOut](https://user-images.githubusercontent.com/109444537/179872683-45711eca-ee2a-43a0-88fa-b1a0edc7cab0.png)
 
 
