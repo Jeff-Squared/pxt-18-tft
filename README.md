@@ -1,3 +1,10 @@
+![PinOut](https://user-images.githubusercontent.com/109444537/179872683-45711eca-ee2a-43a0-88fa-b1a0edc7cab0.png)
+
+
+
+
+
+
 
 > Open this page at [https://jeff-squared.github.io/pxt-18-tft/](https://jeff-squared.github.io/pxt-18-tft/)
 
