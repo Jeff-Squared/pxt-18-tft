@@ -1,5 +1,5 @@
 Primarily configured for the Wavershare 1.8 inch TFT module for Microbit the code in this extension is usable with other S7735S 1.8 TFT displays. 
-The functions/methods are yet to be finalized and documented but the extension operates ok as is for now.
+The extension contains functions to initialize and create various geometric shapes on the display.
 
 
 ![PinOut](https://user-images.githubusercontent.com/109444537/179872683-45711eca-ee2a-43a0-88fa-b1a0edc7cab0.png)
