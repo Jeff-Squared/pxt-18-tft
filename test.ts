@@ -1,10 +1,16 @@
 TFT.init()
-TFT.clearScreen(Color.Yellow)
-TFT.drawCircle(40, 40, 20, Color.Green)
-TFT.drawRectangle(45, 45, 50, 50, Color.Red)
-TFT.drawRectangle(55, 55, 6, 6, Color.White)
-TFT.drawRectangle(68, 68, 6, 6, Color.White)
-TFT.drawRectangle(81, 81, 6, 6, Color.White)
-basic.forever(function () {
-	
-})
+TFT.clearScreen(Color.Black)
+TFT.drawPixel(0, 0, Color.White)
+TFT.drawPixel(159, 0, Color.White)
+TFT.drawPixel(0, 127, Color.White)
+TFT.drawPixel(159, 127, Color.White)
+TFT.drawHorizontal(0, 45, 160, Color.Red)
+TFT.drawVertical(80, 70, 40, Color.Magenta)
+TFT.drawRectangle(50, 5, 30, 30, Color.Yellow)
+TFT.drawString(
+"HELLO WORLD!",
+20,
+50,
+Color.Cyan,
+Color.Black
+)
