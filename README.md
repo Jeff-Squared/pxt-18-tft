@@ -1,4 +1,4 @@
-Primarily configured for the Wavershare 1.8 inch TFT module for Microbit the code in this extension is usable with other ST735S 1.8 TFT displays. 
+Primarily configured for the Wavershare 1.8 inch TFT module https://www.waveshare.com/1.8inch-lcd-for-micro-bit.htm for Microbit the code in this extension is usable with other ST735S 1.8 TFT displays. 
 The extension contains functions to initialize and create various geometric shapes on the display.
 
 During the creation of this extension I used the extension at https://github.com/joy-it/pxt-RB-TFT1.8 for guidance and included a trimmed version of their string drawing routine.
