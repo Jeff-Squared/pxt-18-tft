@@ -20,7 +20,7 @@ enum Color {
 }
 
 /**
-* RB-TFT1.8 Block
+* TFT
 */
 //% color="#669999" icon="\uf008" weight=110 block="1.8 TFT Display"
 
