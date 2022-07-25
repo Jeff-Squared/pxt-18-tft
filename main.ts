@@ -204,7 +204,7 @@ namespace TFT {
             pins.spiWrite(color & 0xFF)
         }
 
-        exitDataMode
+        exitDataMode()
     }
 
     /*
