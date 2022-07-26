@@ -92,7 +92,7 @@ namespace TFT {
 
     export function init(): void {
         // set SPI frequency
-        pins.spiFrequency(5000000)
+        pins.spiFrequency(16000000)
 
         //Toggle reset pin
         pins.digitalWritePin(DigitalPin.P8, 1)
